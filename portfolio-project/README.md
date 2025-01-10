@@ -13,7 +13,7 @@ Welcome to my personal portfolio! This project showcases my journey as a passion
 - **Figma** for initial design prototyping.
 
 ## Live Demo
-[Visit My Portfolio](#) *(Insert live link here)*
+[Visit My Portfolio](#) 
 
 ## Get in Touch
 Feel free to connect with me on:
