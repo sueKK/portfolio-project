@@ -8,7 +8,7 @@ import Contact from "./components/Contact";
 
 const App = () => {
   return (
-    <div className="bg-[#f4e7ce] text-[#1f1e1c] font-sans">
+    <div className="bg-[#000000] text-[#1f1e1c] font-sans">
       <Header />
       <Quote />
       <Profile />
