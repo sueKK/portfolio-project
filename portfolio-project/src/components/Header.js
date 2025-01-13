@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className = "">
+    <div className = "uhhin">
     <header className="flex justify-between items-center py-4 px-8 border-b border-[#1f1e1c]">
      <h1 className="text-2xl font-bold">SUE-KK</h1>
       <nav className="flex gap-8">
